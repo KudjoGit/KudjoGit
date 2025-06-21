@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Khutso | Data Enthusiast & Future Analyst
 
-<!--
-**KudjoGit/KudjoGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm on a mission to transition into the data science and analytics space after years of self-study, dedication, and curiosity.
 
-Here are some ideas to get you started:
+### 🚀 What I'm Working On
+- Python, Pandas, Matplotlib, Seaborn
+- Building real-world data analysis projects
+- Exploring Power BI and SQL for business intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Portfolio Highlights
+- [First Data Project – Titanic Survival Analysis](https://github.com/KudjoGit/first-data-project)
+
+### 🔧 Tools & Skills
+- Python | Jupyter | GitHub
+- Data Cleaning & Visualization
+- Power BI (in progress)
+- Eager to learn Machine Learning and Advanced Analytics
+
+### 🌱 My Goals
+- Build a solid data portfolio by year-end
+- Contribute to open-source projects and Zindi competitions
+- Land my first full-time data role
+
+### 📫 Connect with Me
+- [LinkedIn] (https://www.linkedin.com/in/ktdkomane/)
+- [GitHub] (https://github.com/KudjoGit)
+
+***
+
+> “Start where you are. Use what you have. Do what you can.”
